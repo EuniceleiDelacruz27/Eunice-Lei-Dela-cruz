@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: url(/img/material-design-multicolor-colorful-minimalist-stripes-flat-2560x1440-6721.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-menu{
+    height: 40px;
+    width: 100%;
+    border: 3px solid black;
+    margin-left: 2px;
+    background-color: yellow;
+    
+  }
+  ul li :hover{
+  background-color: coral;
+  font-weight: bolder;
+  cursor: pointer
+  
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    font-size: medium;
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding: 3px;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+
+  }
+  .search {
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 0.5%;
+  }
+.topbox{
+    height: 280px;
+    width: 350px;
+    position: absolute;
+
+}
+.box1 img{
+     position: absolute;
+    height: 300px;
+     width: 230px;
+     padding: 0px;
+     margin-left:0px;
+     margin-top: -43px;
+     clip-path: circle();
+}
+h1{
+color: white;
+}
+p{
+position: absolute;
+margin-top: 5%;
+margin-left: 35%;
+
+
+}
+.p2{
+ margin-top: 90%;
+ margin-left: 1% ;
+ position: absolute;
+ 
+}
+.box1{
+    height: 570px;
+    width: 250px;
+    background-color: coral;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding: 15px;
+    position: absolute;
+    border: 5px solid black; 
+    border-radius: 12px;  
+    
+}
+button{
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+button:hover{
+    color: coral;
+    
+}
+.box2{
+    height: 150px;
+  width: 450px;
+  background-color: coral;
+  margin-top: 350px;
+  margin-left: 35%;
+  padding: 9px;
+  position: absolute;
+ border: 5px solid black;
+}
+.p3{
+    margin-top: 1%;
+    margin-left: 3px;
+}
+.box3{
+    height: 150px;
+  width: 450px;
+  background-color: coral;
+  margin-top: 450px;
+  margin-left: 35%;
+  padding: 9px;
+  position: absolute;
+  border: 5px solid black;
+}
+.p4{
+    margin-top: ;
+    margin-left: 3px;
+}
+.boxes{
+    height: 250px;
+    width: 470.5px;
+    margin-top: 180px;
+    margin-left: 35%;
+    position: absolute;
+    border: 5px solid black;
+    background-color: coral;
+}
+.box4{
+    height: 570px;
+    width: 250px;
+    background-color: coral;
+    margin-left: 1200px;
+    margin-top: 5%;
+    padding: 15px;
+    position: absolute;
+    border: 5px solid black ; 
+    border-radius: 12px; 
+    float: right;
+} 
+.p5{
+
+    margin-left: -3px;
+    margin-top: 90%;
+    position: absolute;
+}
+.box4 img{
+    position: absolute;
+    height: 300px;
+    width: 230px;
+    padding: 0px;
+    margin-left:3%;
+    margin-top: -43px;
+    clip-path: circle();
+}
+.p6{
+  margin-left: 2%;
+  margin-top: 5%;
+  position: absolute;
+}
+
+
